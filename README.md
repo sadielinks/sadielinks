@@ -2,8 +2,7 @@
 
 ### Welcome ✨
 
-I'm a clinical researcher that is interesting in SQL-based projects. I have MERN-stack background and hope to dive into more back-end development projects.
-
+I'm a clinical researcher that is interested in SQL-based projects. I have MERN-stack background and hope to dive into more back-end development projects.
 
 <!--
 **sadielinks/sadielinks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
