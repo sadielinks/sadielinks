@@ -1,8 +1,8 @@
-## Welcome ✨
-
 ![Sadie Sial Github Banner](img/sadie.png)
 
+<p align="center">
 I'm a clinical researcher that is interested in SQL-based projects. I have a background in the MERN-stack and hope to further my back-end development skills.
+</p>
 
 <br>
 
