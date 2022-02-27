@@ -1,10 +1,10 @@
-### Welcome ✨
+## Welcome ✨
 
 ![Sadie Sial Github Banner](img/sadie.png)
 
 I'm a clinical researcher that is interested in SQL-based projects. I have a background in the MERN-stack and hope to further my back-end development skills.
 
-## Current Tech Stack
+### ⚡ The Current Stack:
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -22,12 +22,11 @@ I'm a clinical researcher that is interested in SQL-based projects. I have a bac
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
+### 📖 Currently Learning:
 
-## Currently Learning
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
 
 <!--
 **sadielinks/sadielinks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
